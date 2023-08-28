@@ -19,7 +19,7 @@ On the homepage, you can see a list of all existing issues. Each issue includes 
 
 The code for this project is structured as follows:
 
-- `app.js` - This is the main file that initializes the Express app and sets up the routes.
+- `index.js` - This is the main file that initializes the Express app and sets up the routes.
 - `models/issue.js` - This file defines the Issue schema for MongoDB.
 - `routes/index.js` - This file defines the routes for the web application.
 - `views/` - This directory contains the EJS templates used to render the HTML pages.
